@@ -2,8 +2,6 @@
 
 **Week 12, Data Reuse project.** Public data only. Two deposited *Ictalurus furcatus* RNA-seq studies, 74 runs.
 
-**[Open the report](docs/index.html)** · [Reproduce](#reproducing-this) · [Limitations](#limitations)
-
 An RNA-seq experiment is run to measure one animal's gene expression. Reads that do not map to that animal are dropped at the first step of every pipeline and never looked at again. This project asks what is in that discarded fraction, whether it differs between fish, and whether it relates to how the offspring do.
 
 ## The two studies
