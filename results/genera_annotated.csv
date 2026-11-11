@@ -1,0 +1,313 @@
+run,tissue,bioproject,genus,reads,pct_of_analysed,study,class
+SRR37233673,sperm,PRJNA1423719,Sphingomonas,114966,0.3363,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Cutibacterium,1391,0.0041,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Bradyrhizobium,1267,0.0037,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Pseudomonas,917,0.0027,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Sphingobium,739,0.0022,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Brevundimonas,595,0.0017,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Staphylococcus,447,0.0013,sperm A (ovarian fluid),environment-associated
+SRR37233673,sperm,PRJNA1423719,Corynebacterium,421,0.0012,sperm A (ovarian fluid),environment-associated
+SRR37233674,sperm,PRJNA1423719,Sphingomonas,285502,0.9365,sperm A (ovarian fluid),environment-associated
+SRR37233674,sperm,PRJNA1423719,Bradyrhizobium,3752,0.0123,sperm A (ovarian fluid),environment-associated
+SRR37233674,sperm,PRJNA1423719,Sphingobium,1413,0.0046,sperm A (ovarian fluid),environment-associated
+SRR37233674,sperm,PRJNA1423719,Rheinheimera,968,0.0032,sperm A (ovarian fluid),fish/gut-associated
+SRR37233674,sperm,PRJNA1423719,Flavobacterium,896,0.0029,sperm A (ovarian fluid),fish/gut-associated
+SRR37233674,sperm,PRJNA1423719,Aeromonas,864,0.0028,sperm A (ovarian fluid),fish/gut-associated
+SRR37233674,sperm,PRJNA1423719,Acinetobacter,713,0.0023,sperm A (ovarian fluid),environment-associated
+SRR37233674,sperm,PRJNA1423719,Cutibacterium,664,0.0022,sperm A (ovarian fluid),environment-associated
+SRR37233675,sperm,PRJNA1423719,Sphingomonas,626050,1.8931,sperm A (ovarian fluid),environment-associated
+SRR37233675,sperm,PRJNA1423719,Bradyrhizobium,7110,0.0215,sperm A (ovarian fluid),environment-associated
+SRR37233675,sperm,PRJNA1423719,Sphingobium,3333,0.0101,sperm A (ovarian fluid),environment-associated
+SRR37233675,sperm,PRJNA1423719,Cetobacterium,1442,0.0044,sperm A (ovarian fluid),fish/gut-associated
+SRR37233675,sperm,PRJNA1423719,Flavobacterium,1030,0.0031,sperm A (ovarian fluid),fish/gut-associated
+SRR37233675,sperm,PRJNA1423719,Cutibacterium,879,0.0027,sperm A (ovarian fluid),environment-associated
+SRR37233675,sperm,PRJNA1423719,Caulobacter,571,0.0017,sperm A (ovarian fluid),environment-associated
+SRR37233675,sperm,PRJNA1423719,Microbacterium,419,0.0013,sperm A (ovarian fluid),environment-associated
+SRR37233676,sperm,PRJNA1423719,Sphingomonas,268566,0.974,sperm A (ovarian fluid),environment-associated
+SRR37233676,sperm,PRJNA1423719,Bradyrhizobium,3521,0.0128,sperm A (ovarian fluid),environment-associated
+SRR37233676,sperm,PRJNA1423719,Undibacterium,3073,0.0111,sperm A (ovarian fluid),fish/gut-associated
+SRR37233676,sperm,PRJNA1423719,Aeromonas,2378,0.0086,sperm A (ovarian fluid),fish/gut-associated
+SRR37233676,sperm,PRJNA1423719,Rheinheimera,2311,0.0084,sperm A (ovarian fluid),fish/gut-associated
+SRR37233676,sperm,PRJNA1423719,Flavobacterium,2257,0.0082,sperm A (ovarian fluid),fish/gut-associated
+SRR37233676,sperm,PRJNA1423719,Sphingobacterium,2057,0.0075,sperm A (ovarian fluid),other
+SRR37233676,sperm,PRJNA1423719,Chryseobacterium,1933,0.007,sperm A (ovarian fluid),fish/gut-associated
+SRR37233677,sperm,PRJNA1423719,Sphingomonas,450213,1.5348,sperm A (ovarian fluid),environment-associated
+SRR37233677,sperm,PRJNA1423719,Undibacterium,6197,0.0211,sperm A (ovarian fluid),fish/gut-associated
+SRR37233677,sperm,PRJNA1423719,Bradyrhizobium,5945,0.0203,sperm A (ovarian fluid),environment-associated
+SRR37233677,sperm,PRJNA1423719,Rheinheimera,3721,0.0127,sperm A (ovarian fluid),fish/gut-associated
+SRR37233677,sperm,PRJNA1423719,Sphingobium,3665,0.0125,sperm A (ovarian fluid),environment-associated
+SRR37233677,sperm,PRJNA1423719,Aeromonas,3565,0.0122,sperm A (ovarian fluid),fish/gut-associated
+SRR37233677,sperm,PRJNA1423719,Cutibacterium,3294,0.0112,sperm A (ovarian fluid),environment-associated
+SRR37233677,sperm,PRJNA1423719,Chryseobacterium,2903,0.0099,sperm A (ovarian fluid),fish/gut-associated
+SRR37233678,sperm,PRJNA1423719,Sphingomonas,365461,1.3137,sperm A (ovarian fluid),environment-associated
+SRR37233678,sperm,PRJNA1423719,Bradyrhizobium,4518,0.0162,sperm A (ovarian fluid),environment-associated
+SRR37233678,sperm,PRJNA1423719,Undibacterium,3853,0.0139,sperm A (ovarian fluid),fish/gut-associated
+SRR37233678,sperm,PRJNA1423719,Sphingobacterium,2368,0.0085,sperm A (ovarian fluid),other
+SRR37233678,sperm,PRJNA1423719,Aeromonas,2143,0.0077,sperm A (ovarian fluid),fish/gut-associated
+SRR37233678,sperm,PRJNA1423719,Flavobacterium,2037,0.0073,sperm A (ovarian fluid),fish/gut-associated
+SRR37233678,sperm,PRJNA1423719,Rheinheimera,1976,0.0071,sperm A (ovarian fluid),fish/gut-associated
+SRR37233678,sperm,PRJNA1423719,Sphingobium,1868,0.0067,sperm A (ovarian fluid),environment-associated
+SRR37233679,sperm,PRJNA1423719,Sphingomonas,600537,2.1075,sperm A (ovarian fluid),environment-associated
+SRR37233679,sperm,PRJNA1423719,Bradyrhizobium,7442,0.0261,sperm A (ovarian fluid),environment-associated
+SRR37233679,sperm,PRJNA1423719,Sphingobium,4479,0.0157,sperm A (ovarian fluid),environment-associated
+SRR37233679,sperm,PRJNA1423719,Flavobacterium,4016,0.0141,sperm A (ovarian fluid),fish/gut-associated
+SRR37233679,sperm,PRJNA1423719,Cutibacterium,1679,0.0059,sperm A (ovarian fluid),environment-associated
+SRR37233679,sperm,PRJNA1423719,Chryseobacterium,1513,0.0053,sperm A (ovarian fluid),fish/gut-associated
+SRR37233679,sperm,PRJNA1423719,Aeromonas,1504,0.0053,sperm A (ovarian fluid),fish/gut-associated
+SRR37233679,sperm,PRJNA1423719,Rheinheimera,1081,0.0038,sperm A (ovarian fluid),fish/gut-associated
+SRR37233680,sperm,PRJNA1423719,Sphingomonas,817557,2.8213,sperm A (ovarian fluid),environment-associated
+SRR37233680,sperm,PRJNA1423719,Bradyrhizobium,13080,0.0451,sperm A (ovarian fluid),environment-associated
+SRR37233680,sperm,PRJNA1423719,Sphingobium,4662,0.0161,sperm A (ovarian fluid),environment-associated
+SRR37233680,sperm,PRJNA1423719,Cutibacterium,1696,0.0059,sperm A (ovarian fluid),environment-associated
+SRR37233680,sperm,PRJNA1423719,Rheinheimera,1521,0.0052,sperm A (ovarian fluid),fish/gut-associated
+SRR37233680,sperm,PRJNA1423719,Flavobacterium,1128,0.0039,sperm A (ovarian fluid),fish/gut-associated
+SRR37233680,sperm,PRJNA1423719,Aeromonas,1079,0.0037,sperm A (ovarian fluid),fish/gut-associated
+SRR37233680,sperm,PRJNA1423719,Undibacterium,838,0.0029,sperm A (ovarian fluid),fish/gut-associated
+SRR37233681,sperm,PRJNA1423719,Sphingomonas,321155,1.3364,sperm A (ovarian fluid),environment-associated
+SRR37233681,sperm,PRJNA1423719,Bradyrhizobium,5411,0.0225,sperm A (ovarian fluid),environment-associated
+SRR37233681,sperm,PRJNA1423719,Sphingobium,2192,0.0091,sperm A (ovarian fluid),environment-associated
+SRR37233681,sperm,PRJNA1423719,Aeromonas,1067,0.0044,sperm A (ovarian fluid),fish/gut-associated
+SRR37233681,sperm,PRJNA1423719,Flavobacterium,977,0.0041,sperm A (ovarian fluid),fish/gut-associated
+SRR37233681,sperm,PRJNA1423719,Cutibacterium,969,0.004,sperm A (ovarian fluid),environment-associated
+SRR37233681,sperm,PRJNA1423719,Rheinheimera,902,0.0038,sperm A (ovarian fluid),fish/gut-associated
+SRR37233681,sperm,PRJNA1423719,Staphylococcus,575,0.0024,sperm A (ovarian fluid),environment-associated
+SRR37233682,sperm,PRJNA1423719,Sphingomonas,752963,2.9039,sperm A (ovarian fluid),environment-associated
+SRR37233682,sperm,PRJNA1423719,Bradyrhizobium,7568,0.0292,sperm A (ovarian fluid),environment-associated
+SRR37233682,sperm,PRJNA1423719,Undibacterium,5603,0.0216,sperm A (ovarian fluid),fish/gut-associated
+SRR37233682,sperm,PRJNA1423719,Sphingobium,4919,0.019,sperm A (ovarian fluid),environment-associated
+SRR37233682,sperm,PRJNA1423719,Rheinheimera,4170,0.0161,sperm A (ovarian fluid),fish/gut-associated
+SRR37233682,sperm,PRJNA1423719,Aeromonas,3132,0.0121,sperm A (ovarian fluid),fish/gut-associated
+SRR37233682,sperm,PRJNA1423719,Cutibacterium,2950,0.0114,sperm A (ovarian fluid),environment-associated
+SRR37233682,sperm,PRJNA1423719,Flavobacterium,2574,0.0099,sperm A (ovarian fluid),fish/gut-associated
+SRR37233683,sperm,PRJNA1423719,Sphingomonas,448867,1.5381,sperm A (ovarian fluid),environment-associated
+SRR37233683,sperm,PRJNA1423719,Undibacterium,8369,0.0287,sperm A (ovarian fluid),fish/gut-associated
+SRR37233683,sperm,PRJNA1423719,Bradyrhizobium,5994,0.0205,sperm A (ovarian fluid),environment-associated
+SRR37233683,sperm,PRJNA1423719,Rheinheimera,5785,0.0198,sperm A (ovarian fluid),fish/gut-associated
+SRR37233683,sperm,PRJNA1423719,Aeromonas,4947,0.017,sperm A (ovarian fluid),fish/gut-associated
+SRR37233683,sperm,PRJNA1423719,Flavobacterium,3873,0.0133,sperm A (ovarian fluid),fish/gut-associated
+SRR37233683,sperm,PRJNA1423719,Chryseobacterium,3848,0.0132,sperm A (ovarian fluid),fish/gut-associated
+SRR37233683,sperm,PRJNA1423719,Sphingobacterium,3785,0.013,sperm A (ovarian fluid),other
+SRR37233684,sperm,PRJNA1423719,Sphingomonas,456263,1.4565,sperm A (ovarian fluid),environment-associated
+SRR37233684,sperm,PRJNA1423719,Bradyrhizobium,5171,0.0165,sperm A (ovarian fluid),environment-associated
+SRR37233684,sperm,PRJNA1423719,Cutibacterium,2946,0.0094,sperm A (ovarian fluid),environment-associated
+SRR37233684,sperm,PRJNA1423719,Flavobacterium,2486,0.0079,sperm A (ovarian fluid),fish/gut-associated
+SRR37233684,sperm,PRJNA1423719,Sphingobium,2410,0.0077,sperm A (ovarian fluid),environment-associated
+SRR37233684,sperm,PRJNA1423719,Streptococcus,1053,0.0034,sperm A (ovarian fluid),environment-associated
+SRR37233684,sperm,PRJNA1423719,Chryseobacterium,964,0.0031,sperm A (ovarian fluid),fish/gut-associated
+SRR37233684,sperm,PRJNA1423719,Aeromonas,719,0.0023,sperm A (ovarian fluid),fish/gut-associated
+SRR37233685,sperm,PRJNA1423719,Sphingomonas,409445,1.3072,sperm A (ovarian fluid),environment-associated
+SRR37233685,sperm,PRJNA1423719,Bradyrhizobium,5345,0.0171,sperm A (ovarian fluid),environment-associated
+SRR37233685,sperm,PRJNA1423719,Cutibacterium,4521,0.0144,sperm A (ovarian fluid),environment-associated
+SRR37233685,sperm,PRJNA1423719,Flavobacterium,3298,0.0105,sperm A (ovarian fluid),fish/gut-associated
+SRR37233685,sperm,PRJNA1423719,Sphingobium,2506,0.008,sperm A (ovarian fluid),environment-associated
+SRR37233685,sperm,PRJNA1423719,Chryseobacterium,1981,0.0063,sperm A (ovarian fluid),fish/gut-associated
+SRR37233685,sperm,PRJNA1423719,Aeromonas,1125,0.0036,sperm A (ovarian fluid),fish/gut-associated
+SRR37233685,sperm,PRJNA1423719,Rheinheimera,795,0.0025,sperm A (ovarian fluid),fish/gut-associated
+SRR37233686,sperm,PRJNA1423719,Sphingomonas,79494,0.3294,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Bradyrhizobium,842,0.0035,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Sphingobium,531,0.0022,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Cutibacterium,369,0.0015,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Staphylococcus,184,0.0008,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Pseudomonas,175,0.0007,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Corynebacterium,111,0.0005,sperm A (ovarian fluid),environment-associated
+SRR37233686,sperm,PRJNA1423719,Microbacterium,84,0.0003,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Sphingomonas,404644,1.5942,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Bradyrhizobium,6464,0.0255,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Brevundimonas,4256,0.0168,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Cutibacterium,3455,0.0136,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Sphingobium,2552,0.0101,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Acinetobacter,1625,0.0064,sperm A (ovarian fluid),environment-associated
+SRR37233687,sperm,PRJNA1423719,Rheinheimera,1252,0.0049,sperm A (ovarian fluid),fish/gut-associated
+SRR37233687,sperm,PRJNA1423719,Flavobacterium,1098,0.0043,sperm A (ovarian fluid),fish/gut-associated
+SRR37233688,sperm,PRJNA1423719,Sphingomonas,298562,1.1105,sperm A (ovarian fluid),environment-associated
+SRR37233688,sperm,PRJNA1423719,Cutibacterium,6528,0.0243,sperm A (ovarian fluid),environment-associated
+SRR37233688,sperm,PRJNA1423719,Bradyrhizobium,5013,0.0186,sperm A (ovarian fluid),environment-associated
+SRR37233688,sperm,PRJNA1423719,Flavobacterium,2896,0.0108,sperm A (ovarian fluid),fish/gut-associated
+SRR37233688,sperm,PRJNA1423719,Sphingobium,1434,0.0053,sperm A (ovarian fluid),environment-associated
+SRR37233688,sperm,PRJNA1423719,Acinetobacter,1217,0.0045,sperm A (ovarian fluid),environment-associated
+SRR37233688,sperm,PRJNA1423719,Chryseobacterium,1124,0.0042,sperm A (ovarian fluid),fish/gut-associated
+SRR37233688,sperm,PRJNA1423719,Aeromonas,984,0.0037,sperm A (ovarian fluid),fish/gut-associated
+SRR37233689,sperm,PRJNA1423719,Sphingomonas,410220,1.5034,sperm A (ovarian fluid),environment-associated
+SRR37233689,sperm,PRJNA1423719,Bradyrhizobium,4461,0.0163,sperm A (ovarian fluid),environment-associated
+SRR37233689,sperm,PRJNA1423719,Flavobacterium,2440,0.0089,sperm A (ovarian fluid),fish/gut-associated
+SRR37233689,sperm,PRJNA1423719,Sphingobium,2383,0.0087,sperm A (ovarian fluid),environment-associated
+SRR37233689,sperm,PRJNA1423719,Aeromonas,1376,0.005,sperm A (ovarian fluid),fish/gut-associated
+SRR37233689,sperm,PRJNA1423719,Chryseobacterium,987,0.0036,sperm A (ovarian fluid),fish/gut-associated
+SRR37233689,sperm,PRJNA1423719,Rheinheimera,777,0.0028,sperm A (ovarian fluid),fish/gut-associated
+SRR37233689,sperm,PRJNA1423719,Pseudomonas,572,0.0021,sperm A (ovarian fluid),environment-associated
+SRR37233690,sperm,PRJNA1423719,Sphingomonas,448686,1.5594,sperm A (ovarian fluid),environment-associated
+SRR37233690,sperm,PRJNA1423719,Undibacterium,5759,0.02,sperm A (ovarian fluid),fish/gut-associated
+SRR37233690,sperm,PRJNA1423719,Bradyrhizobium,4914,0.0171,sperm A (ovarian fluid),environment-associated
+SRR37233690,sperm,PRJNA1423719,Rheinheimera,4485,0.0156,sperm A (ovarian fluid),fish/gut-associated
+SRR37233690,sperm,PRJNA1423719,Aeromonas,4109,0.0143,sperm A (ovarian fluid),fish/gut-associated
+SRR37233690,sperm,PRJNA1423719,Sphingobacterium,3063,0.0106,sperm A (ovarian fluid),other
+SRR37233690,sperm,PRJNA1423719,Sphingobium,2748,0.0096,sperm A (ovarian fluid),environment-associated
+SRR37233690,sperm,PRJNA1423719,Flavobacterium,2595,0.009,sperm A (ovarian fluid),fish/gut-associated
+SRR37233691,sperm,PRJNA1423719,Sphingomonas,374330,1.4347,sperm A (ovarian fluid),environment-associated
+SRR37233691,sperm,PRJNA1423719,Bradyrhizobium,3561,0.0136,sperm A (ovarian fluid),environment-associated
+SRR37233691,sperm,PRJNA1423719,Sphingobium,3155,0.0121,sperm A (ovarian fluid),environment-associated
+SRR37233691,sperm,PRJNA1423719,Cutibacterium,2539,0.0097,sperm A (ovarian fluid),environment-associated
+SRR37233691,sperm,PRJNA1423719,Rheinheimera,2034,0.0078,sperm A (ovarian fluid),fish/gut-associated
+SRR37233691,sperm,PRJNA1423719,Flavobacterium,1311,0.005,sperm A (ovarian fluid),fish/gut-associated
+SRR37233691,sperm,PRJNA1423719,Undibacterium,1060,0.0041,sperm A (ovarian fluid),fish/gut-associated
+SRR37233691,sperm,PRJNA1423719,Aeromonas,1007,0.0039,sperm A (ovarian fluid),fish/gut-associated
+SRR37233692,sperm,PRJNA1423719,Sphingomonas,196962,0.6061,sperm A (ovarian fluid),environment-associated
+SRR37233692,sperm,PRJNA1423719,Acinetobacter,7363,0.0227,sperm A (ovarian fluid),environment-associated
+SRR37233692,sperm,PRJNA1423719,Bradyrhizobium,2121,0.0065,sperm A (ovarian fluid),environment-associated
+SRR37233692,sperm,PRJNA1423719,Sphingobium,1434,0.0044,sperm A (ovarian fluid),environment-associated
+SRR37233692,sperm,PRJNA1423719,Cutibacterium,469,0.0014,sperm A (ovarian fluid),environment-associated
+SRR37233692,sperm,PRJNA1423719,Staphylococcus,291,0.0009,sperm A (ovarian fluid),environment-associated
+SRR37233692,sperm,PRJNA1423719,Hymenobacter,210,0.0006,sperm A (ovarian fluid),other
+SRR37233692,sperm,PRJNA1423719,Methylobacterium,186,0.0006,sperm A (ovarian fluid),environment-associated
+SRR37233693,sperm,PRJNA1423719,Sphingomonas,903286,2.7751,sperm A (ovarian fluid),environment-associated
+SRR37233693,sperm,PRJNA1423719,Cloacibacterium,52580,0.1615,sperm A (ovarian fluid),fish/gut-associated
+SRR37233693,sperm,PRJNA1423719,Cutibacterium,18115,0.0557,sperm A (ovarian fluid),environment-associated
+SRR37233693,sperm,PRJNA1423719,Enterococcus,17690,0.0543,sperm A (ovarian fluid),other
+SRR37233693,sperm,PRJNA1423719,Corynebacterium,10429,0.032,sperm A (ovarian fluid),environment-associated
+SRR37233693,sperm,PRJNA1423719,Bradyrhizobium,7852,0.0241,sperm A (ovarian fluid),environment-associated
+SRR37233693,sperm,PRJNA1423719,Sphingobium,6136,0.0189,sperm A (ovarian fluid),environment-associated
+SRR37233693,sperm,PRJNA1423719,Anoxybacillus,5237,0.0161,sperm A (ovarian fluid),other
+SRR34877640,testis,PRJNA1301936,Bacteroides,5726,0.0111,testis (spermatogenesis),fish/gut-associated
+SRR34877640,testis,PRJNA1301936,Clostridium,5423,0.0105,testis (spermatogenesis),fish/gut-associated
+SRR34877640,testis,PRJNA1301936,Cetobacterium,4977,0.0096,testis (spermatogenesis),fish/gut-associated
+SRR34877640,testis,PRJNA1301936,Cellulosilyticum,4309,0.0084,testis (spermatogenesis),fish/gut-associated
+SRR34877640,testis,PRJNA1301936,Dysgonomonas,2495,0.0048,testis (spermatogenesis),fish/gut-associated
+SRR34877640,testis,PRJNA1301936,Methylobacterium,2425,0.0047,testis (spermatogenesis),environment-associated
+SRR34877640,testis,PRJNA1301936,Parabacteroides,1434,0.0028,testis (spermatogenesis),fish/gut-associated
+SRR34877640,testis,PRJNA1301936,Phocaeicola,1217,0.0024,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Clostridium,4910,0.0098,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Cetobacterium,2519,0.005,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Methylobacterium,2039,0.0041,testis (spermatogenesis),environment-associated
+SRR34877641,testis,PRJNA1301936,Cellulosilyticum,1487,0.003,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Bacteroides,1409,0.0028,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Parabacteroides,866,0.0017,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Dysgonomonas,646,0.0013,testis (spermatogenesis),fish/gut-associated
+SRR34877641,testis,PRJNA1301936,Plesiomonas,436,0.0009,testis (spermatogenesis),fish/gut-associated
+SRR34877642,testis,PRJNA1301936,Bacteroides,6200,0.0125,testis (spermatogenesis),fish/gut-associated
+SRR34877642,testis,PRJNA1301936,Methylobacterium,2585,0.0052,testis (spermatogenesis),environment-associated
+SRR34877642,testis,PRJNA1301936,Sphingomonas,1834,0.0037,testis (spermatogenesis),environment-associated
+SRR34877642,testis,PRJNA1301936,Phocaeicola,1724,0.0035,testis (spermatogenesis),fish/gut-associated
+SRR34877642,testis,PRJNA1301936,Roseateles,1479,0.003,testis (spermatogenesis),other
+SRR34877642,testis,PRJNA1301936,Cetobacterium,1209,0.0024,testis (spermatogenesis),fish/gut-associated
+SRR34877642,testis,PRJNA1301936,Acinetobacter,877,0.0018,testis (spermatogenesis),environment-associated
+SRR34877642,testis,PRJNA1301936,Sphingobacterium,784,0.0016,testis (spermatogenesis),other
+SRR34877643,testis,PRJNA1301936,Cellulosilyticum,5634,0.0097,testis (spermatogenesis),fish/gut-associated
+SRR34877643,testis,PRJNA1301936,Bacteroides,4678,0.008,testis (spermatogenesis),fish/gut-associated
+SRR34877643,testis,PRJNA1301936,Dysgonomonas,3957,0.0068,testis (spermatogenesis),fish/gut-associated
+SRR34877643,testis,PRJNA1301936,Turicibacter,3857,0.0066,testis (spermatogenesis),fish/gut-associated
+SRR34877643,testis,PRJNA1301936,Clostridium,3394,0.0058,testis (spermatogenesis),fish/gut-associated
+SRR34877643,testis,PRJNA1301936,Methylobacterium,2550,0.0044,testis (spermatogenesis),environment-associated
+SRR34877643,testis,PRJNA1301936,Helicobacter,2336,0.004,testis (spermatogenesis),fish/gut-associated
+SRR34877643,testis,PRJNA1301936,Plesiomonas,2306,0.004,testis (spermatogenesis),fish/gut-associated
+SRR34877644,testis,PRJNA1301936,Bradyrhizobium,1061,0.0021,testis (spermatogenesis),environment-associated
+SRR34877644,testis,PRJNA1301936,Aquabacterium,520,0.001,testis (spermatogenesis),other
+SRR34877644,testis,PRJNA1301936,Sphingomonas,268,0.0005,testis (spermatogenesis),environment-associated
+SRR34877644,testis,PRJNA1301936,Mycobacterium,246,0.0005,testis (spermatogenesis),other
+SRR34877644,testis,PRJNA1301936,Methylobacterium,228,0.0005,testis (spermatogenesis),environment-associated
+SRR34877644,testis,PRJNA1301936,Acidovorax,216,0.0004,testis (spermatogenesis),other
+SRR34877644,testis,PRJNA1301936,Brevundimonas,137,0.0003,testis (spermatogenesis),environment-associated
+SRR34877644,testis,PRJNA1301936,Pseudomonas,94,0.0002,testis (spermatogenesis),environment-associated
+SRR34877645,testis,PRJNA1301936,Methylobacterium,1736,0.0033,testis (spermatogenesis),environment-associated
+SRR34877645,testis,PRJNA1301936,Sphingomonas,1216,0.0023,testis (spermatogenesis),environment-associated
+SRR34877645,testis,PRJNA1301936,Hymenobacter,341,0.0006,testis (spermatogenesis),other
+SRR34877645,testis,PRJNA1301936,Parabacteroides,333,0.0006,testis (spermatogenesis),fish/gut-associated
+SRR34877645,testis,PRJNA1301936,Mycobacterium,279,0.0005,testis (spermatogenesis),other
+SRR34877645,testis,PRJNA1301936,Bradyrhizobium,271,0.0005,testis (spermatogenesis),environment-associated
+SRR34877645,testis,PRJNA1301936,Cetobacterium,205,0.0004,testis (spermatogenesis),fish/gut-associated
+SRR34877645,testis,PRJNA1301936,Aquabacterium,118,0.0002,testis (spermatogenesis),other
+SRR34877646,testis,PRJNA1301936,Methylobacterium,1955,0.0037,testis (spermatogenesis),environment-associated
+SRR34877646,testis,PRJNA1301936,Klebsiella,1305,0.0025,testis (spermatogenesis),other
+SRR34877646,testis,PRJNA1301936,Parabacteroides,586,0.0011,testis (spermatogenesis),fish/gut-associated
+SRR34877646,testis,PRJNA1301936,Enterococcus,468,0.0009,testis (spermatogenesis),other
+SRR34877646,testis,PRJNA1301936,Aquabacterium,384,0.0007,testis (spermatogenesis),other
+SRR34877646,testis,PRJNA1301936,Cetobacterium,349,0.0007,testis (spermatogenesis),fish/gut-associated
+SRR34877646,testis,PRJNA1301936,Sphingomonas,286,0.0005,testis (spermatogenesis),environment-associated
+SRR34877646,testis,PRJNA1301936,Staphylococcus,281,0.0005,testis (spermatogenesis),environment-associated
+SRR34877647,testis,PRJNA1301936,Paraclostridium,9407,0.0209,testis (spermatogenesis),fish/gut-associated
+SRR34877647,testis,PRJNA1301936,Clostridium,792,0.0018,testis (spermatogenesis),fish/gut-associated
+SRR34877647,testis,PRJNA1301936,Methylobacterium,718,0.0016,testis (spermatogenesis),environment-associated
+SRR34877647,testis,PRJNA1301936,Cetobacterium,586,0.0013,testis (spermatogenesis),fish/gut-associated
+SRR34877647,testis,PRJNA1301936,Vibrio,494,0.0011,testis (spermatogenesis),fish/gut-associated
+SRR34877647,testis,PRJNA1301936,Aquabacterium,447,0.001,testis (spermatogenesis),other
+SRR34877647,testis,PRJNA1301936,Chryseobacterium,204,0.0005,testis (spermatogenesis),fish/gut-associated
+SRR34877647,testis,PRJNA1301936,Mycobacterium,185,0.0004,testis (spermatogenesis),other
+SRR34877648,testis,PRJNA1301936,Methylobacterium,1556,0.0028,testis (spermatogenesis),environment-associated
+SRR34877648,testis,PRJNA1301936,Parabacteroides,691,0.0013,testis (spermatogenesis),fish/gut-associated
+SRR34877648,testis,PRJNA1301936,Staphylococcus,473,0.0009,testis (spermatogenesis),environment-associated
+SRR34877648,testis,PRJNA1301936,Vibrio,360,0.0007,testis (spermatogenesis),fish/gut-associated
+SRR34877648,testis,PRJNA1301936,Sphingomonas,229,0.0004,testis (spermatogenesis),environment-associated
+SRR34877648,testis,PRJNA1301936,Cetobacterium,220,0.0004,testis (spermatogenesis),fish/gut-associated
+SRR34877648,testis,PRJNA1301936,Mycobacterium,204,0.0004,testis (spermatogenesis),other
+SRR34877648,testis,PRJNA1301936,Aquabacterium,148,0.0003,testis (spermatogenesis),other
+SRR34877649,testis,PRJNA1301936,Klebsiella,1285,0.0031,testis (spermatogenesis),other
+SRR34877649,testis,PRJNA1301936,Bradyrhizobium,593,0.0014,testis (spermatogenesis),environment-associated
+SRR34877649,testis,PRJNA1301936,Aeromonas,551,0.0013,testis (spermatogenesis),fish/gut-associated
+SRR34877649,testis,PRJNA1301936,Cetobacterium,504,0.0012,testis (spermatogenesis),fish/gut-associated
+SRR34877649,testis,PRJNA1301936,Sphingomonas,458,0.0011,testis (spermatogenesis),environment-associated
+SRR34877649,testis,PRJNA1301936,Parabacteroides,409,0.001,testis (spermatogenesis),fish/gut-associated
+SRR34877649,testis,PRJNA1301936,Roseateles,192,0.0005,testis (spermatogenesis),other
+SRR34877649,testis,PRJNA1301936,Bacteroides,139,0.0003,testis (spermatogenesis),fish/gut-associated
+SRR34877650,testis,PRJNA1301936,Methylobacterium,4445,0.008,testis (spermatogenesis),environment-associated
+SRR34877650,testis,PRJNA1301936,Sphingomonas,1162,0.0021,testis (spermatogenesis),environment-associated
+SRR34877650,testis,PRJNA1301936,Sphingobium,1058,0.0019,testis (spermatogenesis),environment-associated
+SRR34877650,testis,PRJNA1301936,Stenotrophomonas,939,0.0017,testis (spermatogenesis),environment-associated
+SRR34877650,testis,PRJNA1301936,Pseudomonas,624,0.0011,testis (spermatogenesis),environment-associated
+SRR34877650,testis,PRJNA1301936,Acinetobacter,434,0.0008,testis (spermatogenesis),environment-associated
+SRR34877650,testis,PRJNA1301936,Aquabacterium,369,0.0007,testis (spermatogenesis),other
+SRR34877650,testis,PRJNA1301936,Rheinheimera,158,0.0003,testis (spermatogenesis),fish/gut-associated
+SRR34877651,testis,PRJNA1301936,Pseudonocardia,1558,0.0026,testis (spermatogenesis),other
+SRR34877651,testis,PRJNA1301936,Stenotrophomonas,1236,0.0021,testis (spermatogenesis),environment-associated
+SRR34877651,testis,PRJNA1301936,Nostoc,1122,0.0019,testis (spermatogenesis),other
+SRR34877651,testis,PRJNA1301936,Actinoplanes,1032,0.0018,testis (spermatogenesis),other
+SRR34877651,testis,PRJNA1301936,Nocardioides,800,0.0014,testis (spermatogenesis),other
+SRR34877651,testis,PRJNA1301936,Parabacteroides,614,0.001,testis (spermatogenesis),fish/gut-associated
+SRR34877651,testis,PRJNA1301936,Solirubrobacter,425,0.0007,testis (spermatogenesis),other
+SRR34877651,testis,PRJNA1301936,Streptococcus,366,0.0006,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Pseudomonas,2452,0.0045,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Stenotrophomonas,1726,0.0032,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Sphingobium,797,0.0015,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Parabacteroides,673,0.0012,testis (spermatogenesis),fish/gut-associated
+SRR34877652,testis,PRJNA1301936,Acinetobacter,360,0.0007,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Streptococcus,243,0.0004,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Staphylococcus,189,0.0003,testis (spermatogenesis),environment-associated
+SRR34877652,testis,PRJNA1301936,Clostridium,181,0.0003,testis (spermatogenesis),fish/gut-associated
+SRR34877653,testis,PRJNA1301936,Methylobacterium,489,0.0009,testis (spermatogenesis),environment-associated
+SRR34877653,testis,PRJNA1301936,Parabacteroides,443,0.0009,testis (spermatogenesis),fish/gut-associated
+SRR34877653,testis,PRJNA1301936,Sphingomonas,371,0.0007,testis (spermatogenesis),environment-associated
+SRR34877653,testis,PRJNA1301936,Aquabacterium,272,0.0005,testis (spermatogenesis),other
+SRR34877653,testis,PRJNA1301936,Microbacterium,203,0.0004,testis (spermatogenesis),environment-associated
+SRR34877653,testis,PRJNA1301936,Cutibacterium,161,0.0003,testis (spermatogenesis),environment-associated
+SRR34877653,testis,PRJNA1301936,Staphylococcus,152,0.0003,testis (spermatogenesis),environment-associated
+SRR34877653,testis,PRJNA1301936,Tenacibaculum,147,0.0003,testis (spermatogenesis),fish/gut-associated
+SRR33411437,sperm,PRJNA1258209,Methylophilus,3882,0.018,sperm B (cryopreserved),other
+SRR33411437,sperm,PRJNA1258209,Acinetobacter,985,0.0046,sperm B (cryopreserved),environment-associated
+SRR33411437,sperm,PRJNA1258209,Cutibacterium,492,0.0023,sperm B (cryopreserved),environment-associated
+SRR33411437,sperm,PRJNA1258209,Stutzerimonas,415,0.0019,sperm B (cryopreserved),other
+SRR33411437,sperm,PRJNA1258209,Pseudomonas,376,0.0017,sperm B (cryopreserved),environment-associated
+SRR33411437,sperm,PRJNA1258209,Methylorubrum,361,0.0017,sperm B (cryopreserved),environment-associated
+SRR33411437,sperm,PRJNA1258209,Roseateles,328,0.0015,sperm B (cryopreserved),other
+SRR33411437,sperm,PRJNA1258209,Burkholderia,278,0.0013,sperm B (cryopreserved),environment-associated
+SRR33411438,sperm,PRJNA1258209,Methylophilus,74294,0.2399,sperm B (cryopreserved),other
+SRR33411438,sperm,PRJNA1258209,Acinetobacter,5971,0.0193,sperm B (cryopreserved),environment-associated
+SRR33411438,sperm,PRJNA1258209,Cutibacterium,4167,0.0135,sperm B (cryopreserved),environment-associated
+SRR33411438,sperm,PRJNA1258209,Sediminibacterium,3723,0.012,sperm B (cryopreserved),other
+SRR33411438,sperm,PRJNA1258209,Gemmatimonas,3609,0.0117,sperm B (cryopreserved),other
+SRR33411438,sperm,PRJNA1258209,Pseudomonas,2789,0.009,sperm B (cryopreserved),environment-associated
+SRR33411438,sperm,PRJNA1258209,Methylorubrum,2301,0.0074,sperm B (cryopreserved),environment-associated
+SRR33411438,sperm,PRJNA1258209,Novosphingobium,1116,0.0036,sperm B (cryopreserved),environment-associated
+SRR33411439,sperm,PRJNA1258209,Stenotrophomonas,93523,0.2648,sperm B (cryopreserved),environment-associated
+SRR33411439,sperm,PRJNA1258209,Parabacteroides,4806,0.0136,sperm B (cryopreserved),fish/gut-associated
+SRR33411439,sperm,PRJNA1258209,Sediminibacterium,183,0.0005,sperm B (cryopreserved),other
+SRR33411439,sperm,PRJNA1258209,Burkholderia,84,0.0002,sperm B (cryopreserved),environment-associated
+SRR33411439,sperm,PRJNA1258209,Pseudomonas,76,0.0002,sperm B (cryopreserved),environment-associated
+SRR33411439,sperm,PRJNA1258209,Methylophilus,75,0.0002,sperm B (cryopreserved),other
+SRR33411439,sperm,PRJNA1258209,Acinetobacter,65,0.0002,sperm B (cryopreserved),environment-associated
+SRR33411439,sperm,PRJNA1258209,Gemmatimonas,45,0.0001,sperm B (cryopreserved),other
+SRR33411440,sperm,PRJNA1258209,Achromobacter,3174,0.02,sperm B (cryopreserved),environment-associated
+SRR33411440,sperm,PRJNA1258209,Parabacteroides,2954,0.0186,sperm B (cryopreserved),fish/gut-associated
+SRR33411440,sperm,PRJNA1258209,Acinetobacter,741,0.0047,sperm B (cryopreserved),environment-associated
+SRR33411440,sperm,PRJNA1258209,Pseudomonas,390,0.0025,sperm B (cryopreserved),environment-associated
+SRR33411440,sperm,PRJNA1258209,Burkholderia,330,0.0021,sperm B (cryopreserved),environment-associated
+SRR33411440,sperm,PRJNA1258209,Roseateles,300,0.0019,sperm B (cryopreserved),other
+SRR33411440,sperm,PRJNA1258209,Delftia,281,0.0018,sperm B (cryopreserved),environment-associated
+SRR33411440,sperm,PRJNA1258209,Bacteroides,259,0.0016,sperm B (cryopreserved),fish/gut-associated

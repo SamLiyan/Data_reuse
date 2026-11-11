@@ -1,0 +1,5 @@
+libraries,trait,n,spearman_rho,spearman_p,slope_per_10x,r2,ols_p
+fresh (primary),hatch_success,30,-0.096,0.6142,0.62,0.001,0.8616
+fresh (primary),larval_survival_30d,30,0.331,0.0741,2.24,0.06,0.1905
+cryo (repeat),hatch_success,30,0.183,0.334,4.16,0.054,0.2178
+cryo (repeat),larval_survival_30d,30,0.401,0.0282,2.79,0.101,0.0876

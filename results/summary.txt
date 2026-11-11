@@ -1,0 +1,114 @@
+Non-host reads in blue catfish reproductive tissue
+============================================================================
+
+Species : Ictalurus furcatus (both studies)
+Studies : PRJNA1301936  testis, 14 runs
+          GSE296208 / PRJNA1258209  sperm, 60 runs (30 males, fresh + cryo)
+Measure : per-run taxonomic composition of each library
+
+1. HOW MUCH OF EACH LIBRARY IS NOT FISH?
+----------------------------------------------------------------------------
+  tissue       n  bacteria % min    median       max  viruses max
+  testis      14            0.63      2.24      3.04       0.0008
+  sperm       60            0.18     17.61     85.59       0.0056
+
+  testis vs sperm, Mann-Whitney U=108, p=1.71e-05
+
+  Viruses and fungi are negligible everywhere (max 0.0056% and 0.0026%).
+  Whatever is in these libraries besides fish is bacterial.
+
+  Widest spread is in sperm: 0.18% to 85.6%, a 483-fold range.
+  SRR33411471 is 85.6% bacterial and 4.7% metazoan. It is deposited without comment.
+
+2. IS IT THE SAME ORGANISM IN EVERY SAMPLE?
+----------------------------------------------------------------------------
+  A signal introduced by shared handling is the same genus everywhere. A
+  signal carried by the animal differs between individuals.
+
+  testis   most abundant genus is Methylobacterium in 5/14 runs; 9 distinct genera take the top slot
+  sperm    most abundant genus is Parabacteroides in 13/60 runs; 14 distinct genera take the top slot
+
+  Neither study is dominated by one organism. In sperm the top genus is
+  Parabacteroides in only 13/60 libraries, and the
+  identity of that genus turns out to depend on how much there is (section 3).
+
+3. WHAT KIND OF ORGANISMS, AND DOES IT TRACK THE AMOUNT?
+----------------------------------------------------------------------------
+  Reference lists were fixed before this analysis (data/*_genera.csv).
+
+                            environment    gut   other
+  testis                              7      5       2
+  sperm                              30     13      17
+
+  In sperm, split by whether the library carries more or less than 30% bacterial:
+
+                          environment    gut   other
+  <= 30% bacterial                 19      3      15
+   > 30% bacterial                 11     10       2
+
+  Fisher exact p = 0.0026, odds ratio 8.7
+  Libraries topped by a gut genus carry a median 48.6% bacterial reads;
+  those topped by an environment genus, 18.0% (Mann-Whitney p = 0.031).
+
+  Parabacteroides, a gut anaerobe, is the most abundant genus in 13 of 60 sperm
+  libraries. The lightly loaded libraries are topped by Stenotrophomonas,
+  Pseudomonas, Staphylococcus, Cutibacterium and Stutzerimonas.
+
+  Alistipes, Blautia and Escherichia each top one library and are gut
+  organisms in the literature, but were not on the list fixed beforehand, so
+  they are counted under 'other' rather than moved across after the fact.
+
+4. THE SAME MALE, SAMPLED TWICE
+----------------------------------------------------------------------------
+  30 males were each sequenced fresh and cryopreserved.
+
+    fresh         median 17.22%  (range 0.18 - 79.26)
+    cryopreserved median 18.05%  (range 0.27 - 85.59)
+
+    paired Wilcoxon, fresh vs cryo : p = 0.685   no effect of freezing
+    Spearman, within the same male : rho = +0.742, p = 2.6e-06
+
+  Two libraries prepared separately from the same fish agree on how much of
+  the library is not fish. The quantity belongs to the male, not to the
+  handling, and it is therefore measured twice rather than once.
+
+5. DOES IT TRACK OFFSPRING PERFORMANCE?
+----------------------------------------------------------------------------
+  Crosses were made with FRESH milt, so the 30 fresh libraries are the
+  analysis. The cryopreserved libraries come from the same 30 males and are
+  tabulated alongside for completeness as a repeat measurement of each
+  male's non-host fraction.
+
+      libraries               trait  n  spearman_rho  spearman_p  slope_per_10x    r2  ols_p
+fresh (primary)       hatch_success 30        -0.096      0.6142           0.62 0.001 0.8616
+fresh (primary) larval_survival_30d 30         0.331      0.0741           2.24 0.060 0.1905
+  cryo (repeat)       hatch_success 30         0.183      0.3340           4.16 0.054 0.2178
+  cryo (repeat) larval_survival_30d 30         0.401      0.0282           2.79 0.101 0.0876
+
+  Hatch success          rho = -0.096, p = 0.614, r2 = 0.001
+    No relationship. A male at 0.18% non-host reads and a male at 79% hatch
+    about equally well. Three orders of magnitude in the predictor explain
+    none of the variance.
+
+  Larval survival 30 d   rho = +0.331, p = 0.074, r2 = 0.060
+    Also not significant. The correlation is weak and does not reach
+    p < 0.05 at n = 30, so no relationship is claimed for this trait
+    either. The cryopreserved libraries are tabulated above for
+    completeness, but the crosses were made with fresh milt, so they are
+    not the test.
+
+  CONFOUNDERS
+    sequencing depth vs non-host fraction : rho = -0.014, p = 0.941
+    host fraction vs non-host fraction    : rho = -0.992, p = 1.0e-26
+    hatch success vs larval survival      : rho = +0.466, p = 0.009
+
+    The second line is the limit on all of this. Within one library, 'more
+    bacterial reads' and 'less fish RNA recovered' are the same measurement.
+    Nothing in a read fraction can separate a larger microbial population
+    from a poorer recovery of host RNA.
+
+    Scope: one species, one season, n = 30, four tests, no correction for
+    multiple testing. Neither trait shows a relationship that holds at this
+    sample size. The non-host fraction varies enormously between males and
+    is reproducible within a male, but it does not predict either outcome
+    measured here.
